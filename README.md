@@ -37,7 +37,7 @@ print("All except last 8 letters:", name[:-8])
    python slicing_demo.py
    ```
 ## Outcome
-The outcome screen shows result as:
+```The outcome screen shows result as:
 complete name is dhananjay
 complete name from 2nd letter is hananjay
 complete name from 3rd letter is ananjay
@@ -52,6 +52,7 @@ letters after 5th place from end is dhan
 letters after 6th place from end is dha
 letters after 7th place from end is dh
 letters after 8th place from is d
+```
 
 ## Learning outcome
 This project helps beginners understand how Python string slicing works.
